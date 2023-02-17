@@ -26,3 +26,24 @@ background-color:palegreen;
 .SIR_HARRY{
     color:purple;
 }
+
+table {
+    border: 1px solid;
+    border-color: black;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+th {
+    border: 1px dashed;
+    border-color:purple;
+    color:aqua;
+    height: 50px;
+    background-color:blueviolet;
+}
+td {
+    border: 1px dashed;
+    border-color:orange;
+    height: 30px;
+}
