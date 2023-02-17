@@ -47,3 +47,16 @@ td {
     border-color:orange;
     height: 30px;
 }
+
+.LADY_SIMS:hover{
+    font-size: medium;
+    color: palevioletred;
+    text-shadow: 0 0 10px palevioletred;
+    border-style: solid;
+}
+.SIR_HARRY:hover {
+    font-size: medium;
+    color: purple;
+    text-shadow: 0 0 10px purple;
+    border-style: solid;
+}
