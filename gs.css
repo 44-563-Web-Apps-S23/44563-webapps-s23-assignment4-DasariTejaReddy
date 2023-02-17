@@ -1,27 +1,28 @@
-h6{
-    color:black;
+.name{
+    color:green;
 }
 p.speech
 {
     color:black;
-    font-size:10x;
+    font-size:medium;
     font-family:'Courier New',Courier,monospace;
 }
 p.direction{
-    font-family:'Courier New',Courier,momospace;
-    color:red;font-size:10x}
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    font-size:small;
+    background-color: bisque;
+}
+    
 
 p.direction:hover{
-    color:blueviolet;
-font:10px;
+    color:red;
 background-color:palegreen;
 }
-.LADY SIMS:hover{
-    font-style:bold;
-    color:black;
+.LADY_SIMS{
+    color:palevioletred;
 
 }
-.SIR HARRY:hover{
-    font-size:bold;
-    color:black;
+.SIR_HARRY{
+    color:purple;
 }
